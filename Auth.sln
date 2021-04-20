@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yopeso.Auth", "Yopeso.Auth\Yopeso.Auth.csproj", "{D1035CC3-4ECF-478E-828A-AF5D1FA630C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yopeso.Auth.Models", "Yopeso.Auth.Models\Yopeso.Auth.Models.csproj", "{47546635-D545-4BAA-AA95-43321CE284CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{343D7187-C954-4E36-806E-A321B950FBFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yopeso.Test.Utils", "Tests\Yopeso.Test.Utils\Yopeso.Test.Utils.csproj", "{F86A8682-21EE-48AD-9ADB-1C6412E358F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yopeso.Auth.Models.Tests", "Tests\Yopeso.Auth.Models.Tests\Yopeso.Auth.Models.Tests.csproj", "{541103EB-8711-487B-986B-9E6DD64D74E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yopeso.Auth.Tests", "Tests\Yopeso.Auth.Tests\Yopeso.Auth.Tests.csproj", "{3C591242-1B1D-4294-84E8-7F7812AC4543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1035CC3-4ECF-478E-828A-AF5D1FA630C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1035CC3-4ECF-478E-828A-AF5D1FA630C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1035CC3-4ECF-478E-828A-AF5D1FA630C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1035CC3-4ECF-478E-828A-AF5D1FA630C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47546635-D545-4BAA-AA95-43321CE284CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47546635-D545-4BAA-AA95-43321CE284CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47546635-D545-4BAA-AA95-43321CE284CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47546635-D545-4BAA-AA95-43321CE284CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F86A8682-21EE-48AD-9ADB-1C6412E358F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86A8682-21EE-48AD-9ADB-1C6412E358F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86A8682-21EE-48AD-9ADB-1C6412E358F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86A8682-21EE-48AD-9ADB-1C6412E358F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541103EB-8711-487B-986B-9E6DD64D74E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541103EB-8711-487B-986B-9E6DD64D74E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541103EB-8711-487B-986B-9E6DD64D74E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541103EB-8711-487B-986B-9E6DD64D74E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C591242-1B1D-4294-84E8-7F7812AC4543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C591242-1B1D-4294-84E8-7F7812AC4543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C591242-1B1D-4294-84E8-7F7812AC4543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C591242-1B1D-4294-84E8-7F7812AC4543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F86A8682-21EE-48AD-9ADB-1C6412E358F4} = {343D7187-C954-4E36-806E-A321B950FBFE}
+		{541103EB-8711-487B-986B-9E6DD64D74E7} = {343D7187-C954-4E36-806E-A321B950FBFE}
+		{3C591242-1B1D-4294-84E8-7F7812AC4543} = {343D7187-C954-4E36-806E-A321B950FBFE}
+	EndGlobalSection
+EndGlobal
