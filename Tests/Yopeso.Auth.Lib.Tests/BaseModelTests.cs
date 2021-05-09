@@ -1,7 +1,8 @@
 using System;
 using NUnit.Framework;
+using Yopeso.Auth.Lib.Models;
 
-namespace Yopeso.Auth.Models.Tests
+namespace Yopeso.Auth.Lib.Tests
 {
     public class BaseModelTests
     {

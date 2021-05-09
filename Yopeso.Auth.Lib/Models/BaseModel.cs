@@ -1,6 +1,6 @@
 using System;
 
-namespace Yopeso.Auth.Models
+namespace Yopeso.Auth.Lib.Models
 {
     public abstract class BaseModel
     {
