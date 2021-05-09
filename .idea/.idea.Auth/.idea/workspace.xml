@@ -7,45 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0032a4bf-1d31-45c2-813a-cbf6d9248221" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Auth/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/Yopeso.Auth.Lib.Tests/Contracts/LoginRequestTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/Yopeso.Auth.Lib.Tests/Contracts/RegisterRequestTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/Yopeso.Auth.Lib.Tests/Contracts/ResponseTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/Yopeso.Auth.Tests/BaseDbContextTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/Yopeso.Auth.Tests/StartupTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yopeso.Auth.Lib/Contracts/LoginRequest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yopeso.Auth.Lib/Contracts/RegisterRequest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yopeso.Auth.Lib/Contracts/Response.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yopeso.Auth.Lib/Models/RoleClaim.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yopeso.Auth.Lib/Models/UserClaim.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yopeso.Auth.Lib/Models/UserLogin.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yopeso.Auth.Lib/Models/UserRole.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yopeso.Auth.Lib/Models/UserToken.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yopeso.Auth/AppDbContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yopeso.Auth/Controllers/AuthenticateController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yopeso.Auth/Migrations/20210508224903_init.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yopeso.Auth/Migrations/20210508224903_init.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yopeso.Auth/Migrations/AppDbContextModelSnapshot.cs" afterDir="false" />
+    <list default="true" id="0032a4bf-1d31-45c2-813a-cbf6d9248221" name="Default Changelist" comment="JWT with MS Identity">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Auth/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Auth/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Auth.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Auth.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/Yopeso.Auth.Models.Tests/BaseDbContextTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/Yopeso.Auth.Models.Tests/BaseModelTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Yopeso.Auth.Lib.Tests/BaseModelTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/Yopeso.Auth.Models.Tests/RoleTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/Yopeso.Auth.Models.Tests/UserAccountTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/Yopeso.Auth.Models.Tests/Yopeso.Auth.Models.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Yopeso.Auth.Lib.Tests/Yopeso.Auth.Lib.Tests.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/Yopeso.Auth.Tests/AppSetupTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/Yopeso.Auth.Tests/Yopeso.Auth.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Yopeso.Auth.Tests/Yopeso.Auth.Tests.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yopeso.Auth.Models/BaseDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Yopeso.Auth/BaseDbContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yopeso.Auth.Models/BaseModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Yopeso.Auth.Lib/Models/BaseModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yopeso.Auth.Models/Role.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Yopeso.Auth.Lib/Models/Role.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yopeso.Auth.Models/UserAccount.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Yopeso.Auth.Lib/Models/UserAccount.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yopeso.Auth.Models/Yopeso.Auth.Models.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Yopeso.Auth.Lib/Yopeso.Auth.Lib.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yopeso.Auth/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Yopeso.Auth/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yopeso.Auth/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Yopeso.Auth/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yopeso.Auth/Yopeso.Auth.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Yopeso.Auth/Yopeso.Auth.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yopeso.Auth/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Yopeso.Auth/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yopeso.Auth/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Yopeso.Auth/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Yopeso.Auth.Tests/StartupTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Yopeso.Auth.Tests/StartupTests.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +50,6 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Tests/BaseModel.cs" />
       <option value="$PROJECT_DIR$/Tests/Yopeso.Auth.Models.Tests/BaseModelTests.cs" />
       <option value="$PROJECT_DIR$/Tests/Yopeso.Auth.Models.Tests/BaseDbContext.cs" />
       <option value="$PROJECT_DIR$/Tests/Yopeso.Test.Utils/DbContext/DbSetMoq.cs" />
@@ -136,6 +100,7 @@
       <option value="$PROJECT_DIR$/Tests/Yopeso.Auth.Lib.Tests/Contracts/RegisterRequestTests.cs" />
       <option value="$PROJECT_DIR$/Tests/Yopeso.Auth.Lib.Tests/Contracts/ResponseTests.cs" />
       <option value="$PROJECT_DIR$/Tests/Yopeso.Auth.Tests/StartupTests.cs" />
+      <option value="$PROJECT_DIR$/README.md" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1rFdHin2IFeTR5viGkz78MD6xpk" />
@@ -203,7 +168,7 @@
       <workItem from="1619504403168" duration="6695000" />
       <workItem from="1620171576881" duration="1719000" />
       <workItem from="1620343405931" duration="10540000" />
-      <workItem from="1620555223837" duration="2779000" />
+      <workItem from="1620555223837" duration="3330000" />
     </task>
     <task id="LOCAL-00001" summary="Added UserAccount and Role models.">
       <created>1618957597488</created>
@@ -212,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618957597488</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="JWT with MS Identity">
+      <created>1620596798355</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620596798355</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,43 +199,43 @@
       <expand>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 41% 139/234" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 35% 151/234" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 41% 139/234" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 35% 151/234" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
           <item name="Yopeso.Auth.Lib 100% 0/22" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 41% 139/234" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 35% 151/234" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
           <item name="Yopeso.Auth.Lib 100% 0/22" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
           <item name="Yopeso.Auth.Lib 100% 0/22" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 41% 139/234" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 35% 151/234" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
           <item name="Yopeso.Auth.Lib 100% 0/22" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
           <item name="Yopeso.Auth.Lib 100% 0/22" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
           <item name="Models 100% 0/8" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 41% 139/234" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 35% 151/234" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
           <item name="Yopeso.Auth.Lib 100% 0/22" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
           <item name="Yopeso.Auth.Lib 100% 0/22" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
           <item name="Contracts 100% 0/14" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 41% 139/234" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Yopeso.Auth 6% 136/144" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 35% 151/234" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Yopeso.Auth 2% 141/144" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 41% 139/234" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Yopeso.Auth 6% 136/144" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Yopeso.Auth 6% 136/144" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 35% 151/234" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Yopeso.Auth 2% 141/144" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Yopeso.Auth 2% 141/144" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
       </expand>
       <select />
@@ -286,6 +258,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Added UserAccount and Role models." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added UserAccount and Role models." />
+    <MESSAGE value="JWT with MS Identity" />
+    <option name="LAST_COMMIT_MESSAGE" value="JWT with MS Identity" />
   </component>
 </project>

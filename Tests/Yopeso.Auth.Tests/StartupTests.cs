@@ -20,7 +20,7 @@ namespace Yopeso.Auth.Tests
         }
 
         [Test]
-        public void Should_have_configuration_field_acessable()
+        public void Should_have_Configuration_field_accessible()
         {
             Assert.That(_startup.Configuration, Is.SameAs(_confMock));
         }
